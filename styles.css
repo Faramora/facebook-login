@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(231, 231, 248);
+}
+
+#first {
+  float: left;
+  position: absolute;
+  top: 35%;
+  left: 20%;
+}
+
+#secend {
+  float: right;
+  margin: 200px 250px 50px 50px;
+  padding: 50px 40px 40px 40px;
+  border: 1px solid transparent;
+  height: 270px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px grey;
+  background-color: white;
+}
+h1 {
+  font-family: "REM", sans-serif;
+  font-size: 60px;
+  color: rgb(11, 131, 252);
+}
+#one {
+  font-size: 25px;
+  font-family
+ 
+}
+
+input {
+  width: 300px;
+  height: 35px;
+  border-radius: 4px;
+  border: none;
+}
+
+#tree {
+  width: 300px;
+  height: 35px;
+  background-color: rgb(11, 131, 252);
+  border-radius: 3px;
+  color: white;
+}
+#two {
+  height: 40px;
+  width: 165px;
+  background-color: green;
+  border-radius: 3px;
+  color: white;
+}
+
+form {
+  text-align: center;
+}
+a {
+  color: rgb(11, 131, 252);
+}
